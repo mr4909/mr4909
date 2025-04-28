@@ -12,7 +12,7 @@ I use data to drive system transformation — building scalable tools, designing
 
 ## 🌟 Selected Projects:
 - **Supervision Violations Dashboard (Public Tool)**  
-  Built an interactive dashboard in R Shiny coordinating 50 state DOCs' data submissions.
+  Built an interactive dashboard in R Shiny coordinating 50 state DOCs' data submissions. Link [here](https://projects.csgjusticecenter.org/supervision-violations-impact-on-incarceration/).
 - **Justice System Codebook Generator (Internal Tool)**  
   Developed a reusable R package to automate codebook creation and improve research reproducibility.
 - **New Hampshire JRI Slide Decks (Internal Visual Storytelling)**  
