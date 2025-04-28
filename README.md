@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mari Alexandria Roberts
 
-**Data Science Manager | Criminal Justice Reform | Visual Storyteller**
+**Data Science Project Manager | Criminal Justice Reform | Visual Storyteller**
 
 I use data to drive system transformation — building scalable tools, designing public dashboards, and making justice system data more actionable, equitable, and human-centered.
 
